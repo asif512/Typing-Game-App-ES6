@@ -8,4 +8,3 @@ Game to beat the clock by typing random words
 ==> Score increase after word is typed
 ==> Implement timer
 ==> Add certain amount of time after word is typed based on difficulty
-==> Store difficulty setting in local storage
